@@ -1,16 +1,11 @@
-<h2 align="left">
-  Hi 👋! My name is Gourav and I'm a B.tech CSE, from Dit Dehradun
-</h2>
-
+<p align="left">
+    I'm Gourav from Jhajjar , Haryana <br /><br />- 🔭 I’m studing B.Tech CSE form
+    Dit Dehradun<br />- 📚 I'm currently learning MERN STACK<br />- ⚡ In my free
+    time I like to code and sometimes enjoy with friends
+  </p>
 ###
 
-<img
-  align="right"
-  height="150"
-  src="https://res.cloudinary.com/dgluxbumn/image/upload/v1711685384/YelpCamp/e8ebzrgtqc4gio879pbt.jpg"
-/>
 
-###
 
 <div align="left">
   <img
@@ -76,5 +71,18 @@
     />
   </a>
 </div>
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Gourav830&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+    height="220"
+    alt="streak graph"
+  />
+</div>
+
 
 ###
