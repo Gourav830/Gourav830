@@ -4,23 +4,15 @@
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/dgluxbumn/image/upload/v1711685384/YelpCamp/e8ebzrgtqc4gio879pbt.jpg" />
+<img
+  align="right"
+  height="150"
+  src="https://res.cloudinary.com/dgluxbumn/image/upload/v1711685384/YelpCamp/e8ebzrgtqc4gio879pbt.jpg"
+/>
 
 ###
 
 <div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="30"
-    alt="javascript logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="30"
-    alt="react logo"
-  />
-  <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     height="30"
@@ -38,6 +30,18 @@
     height="30"
     alt="bootstrap logo"
   />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="30"
+    alt="javascript logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    height="30"
+    alt="react logo"
+  />
+  <img width="12" />
 </div>
 
 ###
@@ -50,6 +54,7 @@
       alt="instagram logo"
     />
   </a>
+  <br />
   <a
     href="https://mail.google.com/mail/?view=cm&fs=1&to=gouravsingla830@gmail.com&su=Hello&body=How%20are%20you%3F
 "
@@ -60,6 +65,7 @@
       alt="gmail logo"
     />
   </a>
+  <br />
   <a
     href="https://www.linkedin.com/in/gourav-singla-a63499273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   >
